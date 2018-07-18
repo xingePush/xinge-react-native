@@ -1,0 +1,3 @@
+rootProject.name = 'XGReactNativeExample'
+
+include ':app'
