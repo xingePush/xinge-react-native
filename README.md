@@ -1,4 +1,4 @@
-# 信鸽 SDK 的 React-Nativie 示例
+# 信鸽 SDK 的 React-Native 示例
 不包含完整的功能，如果有需要官方协助增加功能，请提交[Issue](https://github.com/xingePush/xinge-react-native/issues)  
 
 ## Android接入说明 
